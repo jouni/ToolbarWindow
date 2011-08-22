@@ -5,5 +5,9 @@ WebContent/WEB-INF/lib/vaadin*.jar
 
 /.settings
 
+/build
+
+/build/*
+
 /deploy
 
