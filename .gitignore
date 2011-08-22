@@ -1,8 +1,13 @@
 
 WebContent/VAADIN/widgetsets
 
-WebContent/VAADIN/widgetsets/*
+WebContent/WEB-INF/lib/vaadin*.jar
 
-.settings
+/.settings
 
-.settings/*
+/build
+
+/build/*
+
+/deploy
+

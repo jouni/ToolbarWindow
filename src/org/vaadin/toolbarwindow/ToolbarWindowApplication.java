@@ -143,6 +143,7 @@ public class ToolbarWindowApplication extends Application {
         tabs.addTab(wrap, "Intro", null);
 
         Table t = new Table();
+        t.addStyleName(Reindeer.TABLE_BORDERLESS);
         t.setSizeFull();
         t.addContainerProperty("Foo", String.class, null);
         t.addContainerProperty("Bar", String.class, null);
